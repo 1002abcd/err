@@ -12,7 +12,7 @@
 People use drugs for a number of purposes and in a variety of ways. 
 Learn about the distinctions between legal and illegal drugs.</b>
 
-<align left><h2> WHY ARE MEDICATIONS USED BY PEOPLE </h2><align left>
+<h2> WHY ARE MEDICATIONS USED BY PEOPLE </h2>
 
 
 <b>•Drugs affect the way your body and brain work.
@@ -21,7 +21,6 @@ Learn about the distinctions between legal and illegal drugs.</b>
 they appreciate the impact on their body, such as feeling excited and enthusiastic or comfortable and calm, helping 
 them cope with circumstances, such as reducing pain or relieving stress that they have a drug dependence 
 and need to continue taking them to prevent withdrawal symptoms.<b>
-
 
 <h2> HOW ARE MEDICINES MADE? </h2><h2> DRUGS COME FROM NUMEROUS SOURCES: </h2>
 <b>Plants, such as hemp, mushrooms or plant products processed from tobacco,such as alcohol 
@@ -51,7 +50,6 @@ https://www.health.gov.au/health-topics/drugs/about-drugs/what-are-drugs
 
 </center>
 </font>
-</align left>
 </center>
 
 <body>
